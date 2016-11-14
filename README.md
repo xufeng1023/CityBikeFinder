@@ -10,3 +10,11 @@ Laravel version 5.2
 ~ citybikes api
 
 ~ jQuery&bootstrap
+
+Easy to setup
+
+~ git clone
+
+~ composer install
+
+~ php artisan serve
